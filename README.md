@@ -1,4 +1,4 @@
-#  Working for Me @alan
+#  Working for Me - @gholt
 
 This is the owner's manual of sorts, or a "manager readme" for anyone who works directly for me. Honestly, you'd figure all of this out within your first month, but since there's so much other stuff being fired at you from all directions when you start (believe me, I remember my own experience), I hope this provides some necessary insight and overview.
 
