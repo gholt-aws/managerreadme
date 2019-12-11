@@ -1,19 +1,19 @@
 #  Working for Me @alan
 
-This is the owner's manual of sorts, or a "manager readme" for anyone who works directly for me. Honestly, you'd figure all of this out within your first month, but since there's so much other stuff being fired at you from all directions when you start at Unity (believe me, I remember my own experience), I hope this provides some necessary insight and overview.
+This is the owner's manual of sorts, or a "manager readme" for anyone who works directly for me. Honestly, you'd figure all of this out within your first month, but since there's so much other stuff being fired at you from all directions when you start (believe me, I remember my own experience), I hope this provides some necessary insight and overview.
 
 ### The Team
-I manage individual contributors (ICs) in Seattle, Montreal, Austin, and Odessa, and have leads in Helsinki, San Francisco (indirectly), and Copenhagen. You'll eventually get to know all of those people, but start by getting to know the team members in your home office.
+I manage individual contributors (ICs) in Seattle. We work with several teams in Europe - you'll eventually get to know all of those people, but start by getting to know the team members in your home office.
 
 ### 1 on 1 Meetings
 You should schedule a weekly, 30 minute conversation with me - I prefer that you schedule the meeting, as you can pick a time that works for your time zone, and so you can avoid interrupting other meetings or work. 
 
 Your daily work will come largely from the feature team you work with - so our chats will be less about status of your work, and more about how the work is going, how I can be a sounding board for your ideas, and if there's anything I can do to guide you, coach you, or do anything else that will help you become a better test and quality expert for your team. A bit more on this is in the How I Manage section below.
 
-If I'm traveling, I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to serve you and your needs. A big and important part of my job is helping you to be successful, so use me for that as much as you want.
+If I'm traveling, I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a video chat at some overlapping time. As a manager, I am here to serve you and your needs. A big and important part of my job is helping you to be successful, so use me for that as much as you want.
 
 ### Your Role as a Leader
-Improving the quality culture in an organization like ours requires leadership. As testing and quality experts you will need to influence the team to change, improve, or add processes and tools to our systems. At times, you may need to change the mindset or beliefs of your team as you help them improve the way they approach making quality software.
+Improving the quality culture in an organization like ours requires leadership. You will need to influence the team to change, improve, or add processes and tools to our systems. At times, you may need to change the mindset or beliefs of your team as you help them improve the way they approach making quality software.
 
 I am committed to helping you become better leaders, and we’ll talk about leadership and influence frequently during our 1o1s. I expect you to let me know your own leadership challenges, and I will do everything I can to help you succeed as you address those challenges. While I could use my position to add “weight” to your influence, I will step in only on very rare occasions. I am here for advice and ideas to help you as needed, but I have complete trust in you to lead your team from a quality point of view.
 
@@ -23,16 +23,16 @@ I read a lot about management and leadership. Just like when I started reading t
 In short, the following 3 points sum up a large part of my management approach.
 
 ### 1. Our relationship is an alliance
-Your relationship with me as a manager is a mutually beneficial deal for both of us. Our goal is to add value to each other, and we will help each other be successful. I will help you grow in your career and help you become more valuable to Unity while you make Unity successful. Our alliance may take on several forms, and we should be clear with each other on how we help each other's success. 
+Your relationship with me as a manager is a mutually beneficial deal for both of us. Our goal is to add value to each other, and we will help each other be successful. I will help you grow in your career and help you become more valuable to the company while you make the company successful. Our alliance may take on several forms, and we should be clear with each other on how we help each other's success. 
 
 For more on an alliance as a manager/employee relationship, check out http://www.theallianceframework.com/ - Reid Hoffman from linkedin created the framework, and I've found a lot of value in using this as a framework to describe how I work with people in my organization.
 
 ### 2. Balance independence and coaching
-Regardless of whether you work 10 feet from me or 10,000 kilometers, your success relies on your independence and autonomy. My role as a manager is to provide a framework you can work in (e.g. help define your role and mission), and then get out of your way. Unity employees are capable of working with others and figuring things out - I'm here for guidance, coaching, and to help otherwise as needed. If you have questions - or need advice - or just someone to bounce an idea off of, I'm always available. I will also step in and apply additional guidance from time to time. It doesn't mean you've made a mistake or you're doing something wrong - it just means that I spotted an opportunity where I think I can help you. The One Minute Manager (https://en.wikipedia.org/wiki/The_One_Minute_Manager) also covers a lot of this philosophy.
+Regardless of whether you work 10 feet from me or 10,000 kilometers, your success relies on your independence and autonomy. My role as a manager is to provide a framework you can work in (e.g. help define your role and mission), and then get out of your way. You are capable of working with others and figuring things out - I'm here for guidance, coaching, and to help otherwise as needed. If you have questions - or need advice - or just someone to bounce an idea off of, I'm always available. I will also step in and apply additional guidance from time to time. It doesn't mean you've made a mistake or you're doing something wrong - it just means that I spotted an opportunity where I think I can help you. The One Minute Manager (https://en.wikipedia.org/wiki/The_One_Minute_Manager) also covers a lot of this philosophy.
 
 
 ### 3. Improvement is a Prioirity
-I use two different frameworks to think about employee growth. The first is from Max Landsberg - but I first read about it in Michael Lopp's fantastic book, Managing Humans (http://managinghumans.com/). It's a quadrant of skill and will. You may spend time in each of the parts of the quadrant from time to time, but my role as a manager / coach is to guide you towards high skill, high will work as much as possible. This is where you provide the most value to Unity, and where your strengths and skills grow the fastest.
+I use two different frameworks to think about employee growth. The first is from Max Landsberg - but I first read about it in Michael Lopp's fantastic book, Managing Humans (http://managinghumans.com/). It's a quadrant of skill and will. You may spend time in each of the parts of the quadrant from time to time, but my role as a manager / coach is to guide you towards high skill, high will work as much as possible. This is where you provide the most value and where your strengths and skills grow the fastest.
 
 ![skill and will](http://www.leadershipissues.com/wp-content/uploads/2016/02/will.gif "skill and will")
 
